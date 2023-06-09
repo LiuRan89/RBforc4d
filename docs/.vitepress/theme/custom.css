@@ -1,0 +1,12 @@
+/* .vitepress/theme/custom.css */
+:root {
+  --sidebar-text-f-s: 16px;  /* 14px*/  
+
+  --sidebar-text-f-h: 30px;/* 24px*/
+
+
+
+  --asideoutline-text-f-s: 15px; /* 13px*/
+
+  --asideoutline-text-f-h:30px;/*28px;*/
+}
