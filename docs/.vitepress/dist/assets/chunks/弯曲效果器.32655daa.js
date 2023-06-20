@@ -1,0 +1,1 @@
+const s="/assets/穿插.2f00a7d4.gif",a="/assets/页数.f31f6846.png",t="/assets/封面长宽高.ac1af25f.png",o="/assets/书页长宽高.1abfca2c.png",_="/assets/长宽高.d01c9dd4.gif",e="/assets/封面厚度与弯曲.ae8346e3.png",c="/assets/封面厚度.b5f3a789.gif",f="/assets/弯曲效果器.1e82f9ea.gif";export{s as _,a,t as b,o as c,_ as d,e,c as f,f as g};

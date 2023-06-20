@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.7ae304b1.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Octane.md","filePath":"Octane.md"}'),c={name:"Octane.md"};function n(r,o,s,p,_,d){return t(),a("div")}const f=e(c,[["render",n]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.7ae304b1.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Redshift.md","filePath":"Redshift.md"}'),s={name:"Redshift.md"};function r(o,c,n,d,i,f){return t(),a("div")}const m=e(s,[["render",r]]);export{_ as __pageData,m as default};
