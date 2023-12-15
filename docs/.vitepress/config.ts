@@ -6,7 +6,7 @@ export default defineConfig({
   base: "/RBforc4d/", 
   
   
-  title: 'Riggedbooks说明文档',
+  title: 'Riggedbooks Manual',
   description: '在C4d里快速制作翻书动画的插件.',
   
 
