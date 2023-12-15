@@ -17,7 +17,8 @@ export default defineConfig({
     },
     en: {
       label: 'English',
-      lang: 'en',    
+      lang: 'en',  
+      link: '/en/',  
     }
   },
   themeConfig: {        
@@ -61,9 +62,9 @@ export default defineConfig({
           text: 'Introduction',
           collapsed:false,
           items: [
-            { text: 'What is Riggedbooks?', link: 'en/intro' },
-            { text: 'Compatible version', link: 'en/compatible' },  
-            { text: 'Install', link: 'en/install' }, 
+            { text: 'What is Riggedbooks?', link: '/intro' },
+            { text: 'Compatible version', link: '/compatible' },  
+            { text: 'Install', link: '/install' }, 
             { text: 'Changelog', link: '/changelogs' },               
           ]
         },
