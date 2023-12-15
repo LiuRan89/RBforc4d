@@ -34,49 +34,56 @@ export default defineConfig({
         collapsed:false,
         items: [
           { text: '简介', link: '/' },
-          { text: '兼容版本及渲染器', link: '/#兼容性' },  
-          { text: '插件特性', link: '/feathers' },
-          { text: '参数说明', link: '/parameters' },
-          { text: '常见问题', link: '/question' },             
+          { text: '兼容版本及渲染器', link: '/compatible' },  
+          { text: '安装', link: '/install' },  
+          { text: '版本更新', link: '/changelogs' },               
         ]
       },
       
       {
-        text: '快速上手',
+        text: '常见问题',
         collapsed:false,
         items: [
-          { text: '1.安装', link: '/quickstart#_1-安装' },  
-          { text: '2.创建', link: '/quickstart#_2-创建' },            
-          { text: '3.调整尺寸', link: '/quickstart#_3-调整尺寸' },  
-          { text: '4.调整页数', link: '/quickstart#_4-调整页数' }, 
-          { text: '5.移动,旋转,缩放', link: '/quickstart#_5-移动-旋转-缩放' },
-          { text: '6.替换贴图', link: '/quickstart#_6-替换贴图' },
-          { text: '7.调整动画', link: '/quickstart#_7-调整动画' },
-          { text: '附：其他渲染器替换贴图', link: '/other-renders' },
-
-
+          { text: '1.调整书本的移动，旋转，缩放？', link: '/FAQ_PoRoSc' },  
+          { text: '2.批量替换贴图？', link: '/FAQ_replacetex' },            
+          { text: '3.调整翻页动画？', link: '/FAQ_Animation' },  
+          { text: '4.处理穿插？', link: '/FAQ_interlace' }, 
+          { text: '5.转换成静态模型？', link: '/FAQ_staticmodel' },
+          { text: '6.制作圆角书本？', link: '/FAQ_roundcorner' },
+          { text: '7.添加凹凸贴图？', link: '/FAQ_bumpmap' },
+          { text: '8.在封面添加立体字？', link: '/FAQ_cover3dtext' },
+          { text: '9.给图片批量重命名？', link: '/FAQ_batchrename' },
         ]
-      },
-      {
-        text: '封面凹槽与装饰',
-        collapsed:true,
-        items: [
-          { text: '添加3D文字', link: '/quickstart#_1-安装' },  
-          { text: '添加四角装饰', link: '/quickstart#_2-创建' },            
-          { text: '调整凹槽位置和UV', link: '/quickstart#_3-调整尺寸' },           
-        ]
-      },      
+      },     
     ],
       '/en/':[
-      {
-        text: 'GUIDE',
-        items: [
-          { text: 'Feather', link: '/en/' },
-          { text: 'Version', link: '/en/version' },
-          
-        ]
-      }
-    ],
+        {
+          text: 'Introduction',
+          collapsed:false,
+          items: [
+            { text: 'What is Riggedbooks?', link: '/' },
+            { text: 'Compatible version', link: '/compatible' },  
+            { text: 'Install', link: '/install' }, 
+            { text: 'Changelog', link: '/changelogs' },               
+          ]
+        },
+        
+        {
+          text: 'FAQ',
+          collapsed:false,
+          items: [
+            { text: '1.Adjust Pos/Rot/Scale？', link: '/FAQ_PoRoSc' },  
+            { text: '2.(Batch)Replace Textures？', link: '/FAQ_replacetex' },            
+            { text: '3.Adjust Animation？', link: '/FAQ_Animation' },  
+            { text: '4.Deal with interlacing？', link: '/FAQ_interlace' }, 
+            { text: '5.Convert to static mesh？', link: '/FAQ_staticmodel' },
+            { text: '6.Add Round Corner？', link: '/FAQ_roundcorner' },
+            { text: '7.Add Bump maps？', link: '/FAQ_bumpmap' },
+            { text: '8.Add 3D Text on Cover？', link: '/FAQ_cover3dtext' },
+            { text: '9.Batch rename tex？', link: '/FAQ_batchrename' },
+          ]
+        },     
+      ],
     }
   }
 
