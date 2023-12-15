@@ -33,7 +33,7 @@ export default defineConfig({
         text: '功能概述',
         collapsed:false,
         items: [
-          { text: '简介', link: '/' },
+          { text: '简介', link: '/intro' },
           { text: '兼容版本及渲染器', link: '/compatible' },  
           { text: '安装', link: '/install' },  
           { text: '版本更新', link: '/changelogs' },               
@@ -61,7 +61,7 @@ export default defineConfig({
           text: 'Introduction',
           collapsed:false,
           items: [
-            { text: 'What is Riggedbooks?', link: '/' },
+            { text: 'What is Riggedbooks?', link: '/intro' },
             { text: 'Compatible version', link: '/compatible' },  
             { text: 'Install', link: '/install' }, 
             { text: 'Changelog', link: '/changelogs' },               
