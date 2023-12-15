@@ -7,7 +7,7 @@ export default defineConfig({
   
   
   title: 'Riggedbooks Manual',
-  description: '在C4d里快速制作翻书动画的插件.',
+  description: 'A plugin for c4d.',
   
 
   locales: {
