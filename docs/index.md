@@ -1,27 +1,65 @@
 ---
+
+prev: false
+next: false
+
 aside: true
 outline : 2
 ---
-![fengmian](/img/介绍.jpg "title")
+![fengmian](/img/aescriptindex.jpg "title")
 
-在C4d里快速制作翻书动画的插件.  
 
-## **插件特性**
-1. 可以创建**两种封皮类型**书籍,硬皮书和软皮书.
-2. 书页翻动过程**没有穿插**.
-3. 可以自定义**0-200**以内的页数.
-4. **可以调节的参数丰富**：书本的长，宽，高，页数，封面厚度，翻页的弯曲弧度...[等等](/parameters.md)。
-5. **材质直观**,封面和内页都有单独的材质控制，方便替换贴图,（也可以批量替换贴图）.
-6. **动画方便**,每一页的翻页动画都很方便,可以一页一页翻,也可以多页一起翻.
-7. 可以实现书页参差不齐的效果。
-7. **兼容各大渲染器**:`默认渲染器`,`Octane`,`Redshift`,`Vray`,`Arnold`.
+### <center><font color="#f79646">Create Page Flipping animations in a fast way!</font></center>
+![fanye](/img/pageflip.gif "title")
 
-## 兼容性
 
-#### 兼容的Cinema4d版本:`R19,R20,R21,R22,R23,R24,R25,R26`
 
-#### 兼容的渲染器:`默认渲染器`,`Octane`,`Redshift`,`Vray`,`Arnold`
-::: tip 小贴士：
-Corona预览窗口有bug，但是渲染没有问题，所以也算是可以用，不过体验没有上面几款好。
-:::
+<font color='green'><center>
+	
+### Read before buy:
+</center>
+
+- Plugin only compatible for C4D R2023.2 and R2024.    
+- Can only create books with a maximum of 100 sheets,which means the most page number is 200.    
+- Importing books is relatively slow.
+- Because of the complex binding, it cannot be played in real time and should turn off play All frames for smooth preview.
+- When using a third-party renderer, it is best to wait for the material map to load before proceeding.
+</font>
+
+
+### <center><font color="#f79646">Overivew:</font></center>
+
+<iframe width="700" height="350" src="https://www.youtube.com/embed/P5oCPCbk6oQ?si=i2iHzI_biA5OP9Vl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+<!-- 
+## **Features Overview**
+1. Two types of book covers: **Hardcover and Softcover**.
+
+2. The number of pages **up to 100**.\
+It can create books up to 100 sheets with a maximum of 200 page number.
+
+3. **No interlacing** between pages when they are flipping.
+
+
+4. **Lots of parameters** for customization:\
+Book's length, width, height, number of pages, cover thickness, bending radius of the page flip... and more.
+
+5. **Easy for replacing textures**:\
+Separate material controls for the cover and inner pages, making it easy to replace textures.
+
+6. **Batch replace textures**:\
+By naming your textures in a specific way, you can easily batch replace all the pages' textures with the Relink Assets command in the **Project Assets Inspector**.
+
+7. **Easy Animation**:\
+Cover and each page gets its own keyframes.Easy to adjust the flip animation. 
+
+8. Easy to achieves **uneven effect** on book pages.
+
+-->
+
+
+
 
