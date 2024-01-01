@@ -22,7 +22,7 @@ export default defineConfig({
   },
   themeConfig: {    
     logo: 'img/logo.png',  
-    siteTitle: false,  
+    siteTitle: Riggedbooks,  
 
     search: {
       provider: 'local'
