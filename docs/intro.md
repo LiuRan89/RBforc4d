@@ -1,10 +1,14 @@
 ---
+
+prev: false
+next: false
+
 aside: true
 outline : 2
 ---
 ![fengmian](/img/介绍.jpg "title")
 
-在C4d里快速制作翻书动画的插件.  
+Riggedbook is a plugin for creating flipbook animations in Cinema 4D..  
 
 ## **插件特性**
 1. 可以创建**两种封皮类型**书籍,硬皮书和软皮书.
