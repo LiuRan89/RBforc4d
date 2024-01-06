@@ -24,11 +24,11 @@ Compared with Realbooks:
 
 3. The hard cover of Riggebook can choose whether there is a groove.    
     ![ani](/img/grr.png)
-4. Riggebook has the option of soft cover books, meaning that the cover of the book can also be curved, making it more suitable for creating books like magazines with soft cover covers.
+4. Riggebook has the option of soft cover books, meaning that the cover of the book can also be bend, making it more suitable for creating books like magazines with soft cover covers.
     ![ani](/img/softcc.png)
 5. The book made by Riggebook can achieve the effect of uneven pages when closed, which is more realistic.
-    ![ani](/img/uneven.png)roundpag.png
-6. Riggedbook can achieve the effect of rounded pages.
+    ![ani](/img/uneven.png)
+6. Riggedbook can easily achieve the effect of rounded corner cover and pages.
     ![ani](/img/roundpag.png)
 7. Each page of Riggedbook has a corresponding material, making it intuitive and convenient to modify the material map.
 	![ani](/img/mats.jpg)
