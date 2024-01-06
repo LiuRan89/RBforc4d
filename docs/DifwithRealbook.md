@@ -12,21 +12,20 @@ But I read the introduction about Realbook. The summary is as follows.
 ## Similar features:
 Both plugins have many similar features.
 
-1. Hardcover and softcover books, 
-2. The ability to adjust the length, width, height, number of pages, curvature of pages, curvature of the side
+1. Hardcover and softcover books.
+2. The ability to adjust the length, width, height, number of pages, curvature of pages, curvature of the spine.
 3. Flexible custom page turning order.
 
 
 ## Differences:
 
 ### Rig methods are different:
-Riggedbook's rig methods are different:
 
-Realbook are made using mograph, while Riggedbook are made separately page by page using binding methods. 
+Realbook is made with mograph, while Riggedbook is made separately page by page using binding methods. 
 
 So Compare with Realbooks:
 
-#### Riggedbook's Advantages:
+### Riggedbook's Advantages:
 1. The Riggebook's cover and  pages have preset keyframes, which can be directly adjusted on the keyframe panel to adjust the page's turning order and turning speed, making it more intuitive.
 ![ani](/img/keyf.png)
 
@@ -54,7 +53,7 @@ So Compare with Realbooks:
 10. Cheaper.
 
 
-#### Riggedbook's Deficiency:
+### Riggedbook's Deficiency:
 
 1. There is no upper limit on the number of pages in Realbooks, while Riggedbook has a maximum of 100 pages
 2. Realbooks is made using mograph, making it lighter to use.
