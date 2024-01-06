@@ -38,7 +38,7 @@ Compared with Realbooks:
     ![ani](/img/roundpag.png)
 7. Each page of Riggedbook has a corresponding material, making it intuitive and convenient to modify the material map.
 	![ani](/img/mats.jpg)
-8. Riggedbook can replace textures in batches with one click.
+8. Riggedbook can replace textures in batches with one click in c4d's Project  Asset Inspector.
     ![ani](/img/assetbatch.jpg)    
 9. Presets for Octane, RedShift, Arnold, Vray, Corona are available, ready to use.
 	![ani](/img/3rdrenders.jpg)   
