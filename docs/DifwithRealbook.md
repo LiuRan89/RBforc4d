@@ -10,13 +10,18 @@ But I read the introduction about Realbook. The summary is as follows.
 
 
 ## Similar features:
-Both plugins have many similar features, such as hardcover and softcover books, the ability to adjust the length, width, height, number of pages, curvature of pages, curvature of the side, and so on.
+Both plugins have many similar features.
+
+1. Hardcover and softcover books, 
+2. The ability to adjust the length, width, height, number of pages, curvature of pages, curvature of the side
+3. Flexible custom page turning order.
 
 
 ## Differences:
 
 ### Rig methods are different:
-Compared with Realbooks, first of all, Riggedbook's rig methods are different. 
+Riggedbook's rig methods are different:
+
 Realbook are made using mograph, while Riggedbook are made separately page by page using binding methods. 
 
 So Compare with Realbooks:
