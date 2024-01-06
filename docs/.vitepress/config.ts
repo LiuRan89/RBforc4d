@@ -38,7 +38,8 @@ export default defineConfig({
             { text: 'Features', link: '/Features' },
             { text: 'Compatible version', link: '/compatible' },  
             { text: 'Install', link: '/install' }, 
-            { text: 'Changelog', link: '/changelogs' },               
+            { text: 'Changelog', link: '/changelogs' },  
+            { text: 'Dif with Realbook', link: '/DifwithRealbook' },              
           ]
         },
         
