@@ -4,9 +4,9 @@ next: false
 ---
 # Dif with RealBook:
 
-I didn't know about Realbook before, Riggedbook is the C4D version of my same name flipping book plugin for Blender.([Riggebook for blender](https://www.blendermarket.com/products/riggedbooks))
+Riggedbook is the C4D version of my same name flipping book plugin for Blender.([Riggebook for blender](https://www.blendermarket.com/products/riggedbooks))
 
-But I read the introduction about Realbook. The summary is as follows.
+I read the introduction about Realbook. The summary is as follows.
 
 
 ## Similar features:
