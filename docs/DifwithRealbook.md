@@ -10,7 +10,7 @@ But I read the introduction about Realbook. The summary is as follows.
 
 Compared with Realbooks, first of all, Riggedbook's rig methods are different. 
 
-Realbooks are made using mograph, while Riggedbooks are made separately page by page using binding methods. 
+Realbook are made using mograph, while Riggedbook are made separately page by page using binding methods. 
 
 Both plugins have many similar features, such as hardcover and softcover books, the ability to adjust the length, width, height, number of pages, curvature of pages, curvature of the side, and so on.
 
@@ -28,7 +28,7 @@ Compared with Realbooks:
 ![ani](/img/coverwhole.png)
 ![ani](/img/seam.png)
 
-3. The hard cover of Riggebook can choose whether there is a groove.    
+3. The hard cover of Riggebook can choose whether there is a groove.And the shape of the groove can be customized.    
     ![ani](/img/grr.png)
 4. Riggebook has the option of soft cover books, meaning that the cover of the book can also be bend, making it more suitable for creating books like magazines with soft cover covers.
     ![ani](/img/softcc.png)
