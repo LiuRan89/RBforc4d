@@ -8,13 +8,15 @@ I didn't know about Realbook before, Riggedbook is the C4D version of my same na
 
 But I read the introduction about Realbook. The summary is as follows.
 
+### Rig methods are different
 Compared with Realbooks, first of all, Riggedbook's rig methods are different. 
-
 Realbook are made using mograph, while Riggedbook are made separately page by page using binding methods. 
 
+### Similar features
 Both plugins have many similar features, such as hardcover and softcover books, the ability to adjust the length, width, height, number of pages, curvature of pages, curvature of the side, and so on.
 
-There are also some differences.
+
+### Some differences
 
 Compared with Realbooks:
 
