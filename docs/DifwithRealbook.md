@@ -50,7 +50,7 @@ So Compare with Realbooks:
 9. Presets for Octane, RedShift, Arnold, Vray, Corona are available, ready to use.
 	![ani](/img/3rdrenders.jpg)   
 
-10. Cheaper.
+
 
 
 ### Riggedbook's Deficiency:
