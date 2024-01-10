@@ -57,6 +57,9 @@ export default defineConfig({
             { text: '8.Add 3D Text on Cover？', link: '/FAQ_cover3dtext' },
             { text: '9.Batch rename tex？', link: '/FAQ_batchrename' },
             { text: '10.Adjust shape of groove?', link: '/FAQ_grooveshape' },
+            { text: '11.Adjust shape of groove?', link: '/FAQ_11_cover_inner_tex' },
+
+
           ]
         },     
       ],
