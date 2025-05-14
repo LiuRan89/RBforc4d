@@ -58,7 +58,7 @@ export default defineConfig({
             { text: '9.Batch rename tex？', link: '/FAQ_batchrename' },
             { text: '10.Adjust shape of groove?', link: '/FAQ_grooveshape' },
             { text: '11.Change cover inner texture?', link: '/FAQ_11_cover_inner_tex' },
-            { text: '12.Drag but no book appear?', link: '/FAQ_11_cover_inner_tex' },
+            { text: '12.Drag but no book appear?', link: '/FAQ_12_drag_but_no_book' },
 
 
           ]
