@@ -19,7 +19,7 @@ outline : 2
 ### Read before buy:
 </center>
 
-- Plugin compatible for C4D R2023.2 and R2024,2025 and 2026.    
+- Plugin compatible for C4D R2024,2025 and 2026.    
 - Can only create books with a maximum of 100 sheets,which means the most page number is 200.    
 - Importing books is relatively slow.
 - Because of the complex binding, it cannot be played in real time and should turn off play All frames for smooth preview.
